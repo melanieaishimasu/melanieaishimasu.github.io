@@ -1,0 +1,6 @@
+.bg-dark {
+    background-color: rgb(221, 239, 255) !important;
+}
+#results {
+    display:none;
+  }
